@@ -33,15 +33,18 @@ Please feel free to send me [pull requests](https://github.com/thaoshibe/awesome
 
 | Title    | Venue    | Link     |
 |:-------- |:--------:|:--------:|
-| [PSGAN: Pose and Expression Robust Spatial-Aware GAN for Customizable Makeup Transfer](https://arxiv.org/pdf/1909.06956.pdf) | CVPR | [Codes](https://github.com/wtjiang98/PSGAN)|
-
 
 #### 2020
 
-| Title    | Venue    | Type     | Code     | Star     |
-|:-------- |:--------:|:--------:|:--------:|:--------:|
-| Title    | Venue    | Type     | Code     | Star     |
+| Title    | Venue    | Link     |
+|:-------- |:--------:|:--------:|
+| [PSGAN: Pose and Expression Robust Spatial-Aware GAN for Customizable Makeup Transfer](https://arxiv.org/pdf/1909.06956.pdf) | CVPR | [Code](https://github.com/wtjiang98/PSGAN)|
 
+#### 2019
+
+| Title    | Venue    | Link     |
+|:-------- |:--------:|:--------:|
+| [LADN: Local Adversarial Disentangling Network for Facial Makeup and De-Makeup](https://arxiv.org/pdf/1904.11272.pdf)    | ICCV    | [Code]()[Project](https://georgegu1997.github.io/LADN-project-page/)|
 
 #### arXiv
 
@@ -52,7 +55,9 @@ Please feel free to send me [pull requests](https://github.com/thaoshibe/awesome
 
 | Name     | Date     | #imgs    | Link     | Note     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
-|Makeup-Wild| 2020    | #imgs    | [OneDrive](https://buaaeducn-my.sharepoint.com/personal/jiangwentao_buaa_edu_cn/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fjiangwentao_buaa_edu_cn%2FDocuments%2FMakeup-Wild%2Ezip&parent=%2Fpersonal%2Fjiangwentao_buaa_edu_cn%2FDocuments&originalPath=aHR0cHM6Ly9idWFhZWR1Y24tbXkuc2hhcmVwb2ludC5jb20vOnU6L2cvcGVyc29uYWwvamlhbmd3ZW50YW9fYnVhYV9lZHVfY24vRWNSTmtGMmJGWTlBb21mTWZ5ZF9CMkFCVXlaN1B0U2VZb3FGSktKYlZ2d01IZz9ydGltZT1FM3dBc3RtMjJFZw)     |      |
+|Makeup-Wild| 2020    |   772 	 | [OneDrive](https://buaaeducn-my.sharepoint.com/personal/jiangwentao_buaa_edu_cn/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fjiangwentao_buaa_edu_cn%2FDocuments%2FMakeup-Wild%2Ezip&parent=%2Fpersonal%2Fjiangwentao_buaa_edu_cn%2FDocuments&originalPath=aHR0cHM6Ly9idWFhZWR1Y24tbXkuc2hhcmVwb2ludC5jb20vOnU6L2cvcGVyc29uYWwvamlhbmd3ZW50YW9fYnVhYV9lZHVfY24vRWNSTmtGMmJGWTlBb21mTWZ5ZF9CMkFCVXlaN1B0U2VZb3FGSktKYlZ2d01IZz9ydGltZT1FM3dBc3RtMjJFZw)|`256x256`|
+|LADN Makeup | 2019 | 635 | [Drive](https://drive.google.com/file/d/1gygDQarCOZ7E4qptvTyYF_iZNxsJ4WnI/view)| |
+
 
 
 ### Applications
