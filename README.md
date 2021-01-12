@@ -4,7 +4,7 @@ A curated list of Makeup Transfer and related resources.
 
 | ![teaser.jpg](https://raw.githubusercontent.com/Honlan/BeautyGAN/master/result.jpg) | 
 |:--:| 
-| *Image from [BeautyGAN](https://github.com/Honlan/BeautyGAN)* |
+| *This image is from [BeautyGAN](https://github.com/Honlan/BeautyGAN)* |
 
 #### 🌱 Contributing
 
@@ -22,7 +22,7 @@ Please feel free to send me [pull requests](https://github.com/thaoshibe/awesome
   - [2020 Venues](#2020)
   - [2019 Venues](#2019)
   - [2018 Venues](#2018)
-  - [Before 2017](#before-2017)
+  - [Before 2018](#before-2018)
   - [arXiv](#arxiv)
 - [Datasets](#datasets)
 - [Applications](#applications)
