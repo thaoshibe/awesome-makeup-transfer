@@ -93,7 +93,17 @@ Please feel free to send me [pull requests](https://github.com/thaoshibe/awesome
 
 ### Applications
 
+##### Research Directions
+
 - Face Recognition:
 	- [FM2u-Net: Face Morphological Multi-Branch Network for Makeup-Invariant Face Verification](https://openaccess.thecvf.com/content_CVPR_2020/html/Wang_FM2u-Net_Face_Morphological_Multi-Branch_Network_for_Makeup-Invariant_Face_Verification_CVPR_2020_paper.html) | CVPR 2020
 	- [Anti-Makeup: Learning A Bi-Level Adversarial Network for Makeup-Invariant Face Verification](https://arxiv.org/abs/1709.03654) | AAAI 2018
 
+##### Interesting Source Codes
+
+*Source code for demo, web, etc*
+
+- [Face Makeup - Pytorch](https://github.com/zllrunning/face-makeup.PyTorch)
+- [Web-based | Makeup Transfer Demo](https://github.com/thaoshibe/Facial-Makeup-Web)
+- [Web-based | Facial Beauty Prediction](https://github.com/wanshun123/Facial-Beauty-Prediction)
+- [GUI | Makeup Transfer Demo](https://github.com/thaoshibe/GUI-Makeup-Transfer)
