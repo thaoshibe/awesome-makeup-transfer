@@ -2,7 +2,7 @@
 
 A curated list of Makeup Transfer and related resources.
 
-| ![teaser.jpg]('https://raw.githubusercontent.com/Honlan/BeautyGAN/master/result.jpg') | 
+| ![teaser.jpg](https://raw.githubusercontent.com/Honlan/BeautyGAN/master/result.jpg) | 
 |:--:| 
 | *Image from [BeautyGAN](https://github.com/Honlan/BeautyGAN)* |
 
