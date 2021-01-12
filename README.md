@@ -35,7 +35,7 @@ Please feel free to send me [pull requests](https://github.com/thaoshibe/awesome
 
 | Title    | Venue    | Link     |
 |:-------- |:--------:|:--------:|
-| TBD | TBD | TBD|
+| []()| | -|
 
 #### 2020
 
@@ -65,6 +65,7 @@ Please feel free to send me [pull requests](https://github.com/thaoshibe/awesome
 | Title    | Venue    | Year     | Link     |
 |:-------- |:--------:|:--------:|:--------:|
 |[Makeup like a superstar: Deep Localized Makeup Transfer Network](https://arxiv.org/abs/1604.07102)| IJCA| 2020|- |
+| []()| | -|
 
 
 #### arXiv
