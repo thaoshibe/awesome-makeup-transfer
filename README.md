@@ -60,7 +60,7 @@ Please feel free to send me [pull requests](https://github.com/thaoshibe/awesome
 | [PairedCycleGAN: Asymmetric Style Transfer for Applying and Removing Makeup](https://adoberesearch.ctlprojects.com/wp-content/uploads/2018/04/CVPR2018_Paper3623_Chang.pdf)| CVPR | |
 
 
-#### Before 2017
+#### Before 2018
 
 | Title    | Venue    | Year     | Link     |
 |:-------- |:--------:|:--------:|:--------:|
@@ -78,8 +78,13 @@ Please feel free to send me [pull requests](https://github.com/thaoshibe/awesome
 |Makeup-Wild| 2020    |   772 	 | [OneDrive](https://buaaeducn-my.sharepoint.com/personal/jiangwentao_buaa_edu_cn/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fjiangwentao_buaa_edu_cn%2FDocuments%2FMakeup-Wild%2Ezip&parent=%2Fpersonal%2Fjiangwentao_buaa_edu_cn%2FDocuments&originalPath=aHR0cHM6Ly9idWFhZWR1Y24tbXkuc2hhcmVwb2ludC5jb20vOnU6L2cvcGVyc29uYWwvamlhbmd3ZW50YW9fYnVhYV9lZHVfY24vRWNSTmtGMmJGWTlBb21mTWZ5ZF9CMkFCVXlaN1B0U2VZb3FGSktKYlZ2d01IZz9ydGltZT1FM3dBc3RtMjJFZw)|`256x256`|
 |LADN Makeup | 2019 | 635 | [Drive](https://drive.google.com/file/d/1gygDQarCOZ7E4qptvTyYF_iZNxsJ4WnI/view)| |
 |Makeup Transfer | 2018 | 3834 | [Drive](https://drive.google.com/file/d/18UlvYDL6UGZ2rs0yaDsSzoUlw8KI5ABY/view) | w/ [BeautyGAN](http://liusi-group.com/projects/BeautyGAN)|
+|Makeup Datasets | 2012-2017 | [Pages](http://www.antitza.com/makeup-datasets.html)| 4 subsets|
+| FCC Dataset | 2019 | [Github](https://github.com/ssarfraz/SPL/tree/master/FCC_dataset#facial-cosmetic-content-dataset-fcc)|w/ [SPL](https://github.com/ssarfraz/SPL)|
 
 
 
 ### Applications
+
+- Face Recognition:
+	- [FM2u-Net: Face Morphological Multi-Branch Network for Makeup-Invariant Face Verification](https://openaccess.thecvf.com/content_CVPR_2020/html/Wang_FM2u-Net_Face_Morphological_Multi-Branch_Network_for_Makeup-Invariant_Face_Verification_CVPR_2020_paper.html) | CVPR 2020
 
