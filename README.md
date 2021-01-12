@@ -64,12 +64,19 @@ Please feel free to send me [pull requests](https://github.com/thaoshibe/awesome
 
 | Title    | Venue    | Year     | Link     |
 |:-------- |:--------:|:--------:|:--------:|
+|[Makeup like a superstar: Deep Localized Makeup Transfer Network](https://arxiv.org/abs/1604.07102)| IJCA| 2020|- |
 
 
 #### arXiv
 
-| Title    | Date     | Type     | Code     | Star     |
-|:-------- |:--------:|:--------:|:--------:|:--------:|
+| Title    | Year     | Code     |
+|:-------- |:--------:|:--------:|
+| [Cosmetic-Aware Makeup Cleanser](https://arxiv.org/abs/2004.09147)|2020|-|
+| [SLGAN: Style- and Latent-guided Generative Adversarial Network for Desirable Makeup Transfer and Removal](https://arxiv.org/abs/2009.07557)|2020|-|
+| [Local Facial Makeup Transfer via Disentangled Representation](https://arxiv.org/abs/2003.12065)| 2020 |-|
+| [Disentangled Makeup Transfer with Generative Adversarial Network](https://arxiv.org/abs/1907.01144)|2019|[Tf](https://github.com/Honlan/DMT)|
+| []()| | -|
+
 
 ### Datasets
 
@@ -87,4 +94,5 @@ Please feel free to send me [pull requests](https://github.com/thaoshibe/awesome
 
 - Face Recognition:
 	- [FM2u-Net: Face Morphological Multi-Branch Network for Makeup-Invariant Face Verification](https://openaccess.thecvf.com/content_CVPR_2020/html/Wang_FM2u-Net_Face_Morphological_Multi-Branch_Network_for_Makeup-Invariant_Face_Verification_CVPR_2020_paper.html) | CVPR 2020
+	- [Anti-Makeup: Learning A Bi-Level Adversarial Network for Makeup-Invariant Face Verification](https://arxiv.org/abs/1709.03654) | AAAI 2018
 
