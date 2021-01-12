@@ -1,13 +1,13 @@
-# Awesome Long-tailed Recognition [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome MakeupUp Transfer [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-![](https://img.shields.io/badge/Number-60-green)
+---
 
-A curated list of long-tailed recognition and related resources.
+A curated list of Makeup Transfer and related resources.
 
-Please feel free to pull requests or open an issue to add papers.
+##### 🌱 Contributing
 
 
-### :high_brightness: Updated 2020-10-21
+***Last Updated: 🌼  2021-01-12***
 
 ---
 
