@@ -22,7 +22,7 @@ Please feel free to send me [pull requests](https://github.com/thaoshibe/awesome
   - [2020 Venues](#2020)
   - [2019 Venues](#2019)
   - [2018 Venues](#2018)
-  - [Before 2017](#2015-2017)
+  - [Before 2017](#before-2017)
   - [arXiv](#arxiv)
 - [Datasets](#datasets)
 - [Applications](#applications)
@@ -59,7 +59,7 @@ Please feel free to send me [pull requests](https://github.com/thaoshibe/awesome
 | [PairedCycleGAN: Asymmetric Style Transfer for Applying and Removing Makeup](https://adoberesearch.ctlprojects.com/wp-content/uploads/2018/04/CVPR2018_Paper3623_Chang.pdf)| CVPR | |
 
 
-#### 2015-2017
+#### Before 2017
 
 | Title    | Venue    | Year     | Link     |
 |:-------- |:--------:|:--------:|:--------:|
