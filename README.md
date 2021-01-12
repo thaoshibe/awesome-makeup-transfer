@@ -42,20 +42,20 @@ Please feel free to send me [pull requests](https://github.com/thaoshibe/awesome
 
 | Title    | Venue    | Link     |
 |:-------- |:--------:|:--------:|
-| [PSGAN: Pose and Expression Robust Spatial-Aware GAN for Customizable Makeup Transfer](https://arxiv.org/pdf/1909.06956.pdf) | CVPR | [Code](https://github.com/wtjiang98/PSGAN)|
+| [PSGAN: Pose and Expression Robust Spatial-Aware GAN for Customizable Makeup Transfer](https://arxiv.org/pdf/1909.06956.pdf) | CVPR | [Torch](https://github.com/wtjiang98/PSGAN)|
 | [CA-GAN: Weakly Supervised Color Aware GAN for Controllable Makeup Transfer](https://arxiv.org/pdf/2008.10298.pdf) | ECCVw | [Project](https://robinkips.github.io/CA-GAN/)|
 
 #### 2019
 
 | Title    | Venue    | Link     |
 |:-------- |:--------:|:--------:|
-| [LADN: Local Adversarial Disentangling Network for Facial Makeup and De-Makeup](https://arxiv.org/pdf/1904.11272.pdf)    | ICCV    | [Code](https://github.com/wangguanzhi/LADN), [Project](https://georgegu1997.github.io/LADN-project-page/)|
+| [LADN: Local Adversarial Disentangling Network for Facial Makeup and De-Makeup](https://arxiv.org/pdf/1904.11272.pdf)    | ICCV    | [Torch](https://github.com/wangguanzhi/LADN), [Project](https://georgegu1997.github.io/LADN-project-page/)|
 
 #### 2018
 
 | Title    | Venue    | Link     |
 |:-------- |:--------:|:--------:|
-| [BeautyGAN: Instance-level Facial Makeup Transfer with Deep Generative Adversarial Network](https://dl.acm.org/doi/abs/10.1145/3240508.3240618) | ACM |[Code](https://github.com/Honlan/BeautyGAN), [Torch](https://github.com/wtjiang98/BeautyGAN_pytorch), [Project](http://liusi-group.com/projects/BeautyGAN) |
+| [BeautyGAN: Instance-level Facial Makeup Transfer with Deep Generative Adversarial Network](https://dl.acm.org/doi/abs/10.1145/3240508.3240618) | ACM |[Tf](https://github.com/Honlan/BeautyGAN), [Torch](https://github.com/wtjiang98/BeautyGAN_pytorch), [Project](http://liusi-group.com/projects/BeautyGAN) |
 
 #### arXiv
 
