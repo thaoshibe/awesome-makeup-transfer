@@ -8,7 +8,7 @@ A curated list of Makeup Transfer and related resources.
 
 #### 🌱 Contributing
 
-Please feel free to send me [pull requests](https://github.com/thaoshibe/awesome-makeup-transfer/pulls) to add papers/ talks/ demo etc.
+Please feel free to send me [pull requests](https://github.com/thaoshibe/awesome-makeup-transfer/pulls) (or [issues](https://github.com/thaoshibe/awesome-makeup-transfer/issues)) to add papers/ talks/ demo etc.
 
 
 ***Last Updated: 🌼  2021-01-12***
