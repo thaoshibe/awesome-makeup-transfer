@@ -56,7 +56,7 @@ Please feel free to send me [pull requests](https://github.com/thaoshibe/awesome
 
 | Title    | Venue    | Link     |
 |:-------- |:--------:|:--------:|
-| [BeautyGAN: Instance-level Facial Makeup Transfer with Deep Generative Adversarial Network](https://dl.acm.org/doi/abs/10.1145/3240508.3240618) | ACM |[Tf](https://github.com/Honlan/BeautyGAN), [Torch](https://github.com/wtjiang98/BeautyGAN_pytorch), [Project](http://liusi-group.com/projects/BeautyGAN) |
+| [BeautyGAN: Instance-level Facial Makeup Transfer with Deep Generative Adversarial Network](https://dl.acm.org/doi/abs/10.1145/3240508.3240618) | ACM |[Tensorflow](https://github.com/Honlan/BeautyGAN), [Torch](https://github.com/wtjiang98/BeautyGAN_pytorch), [Project](http://liusi-group.com/projects/BeautyGAN) |
 | [PairedCycleGAN: Asymmetric Style Transfer for Applying and Removing Makeup](https://adoberesearch.ctlprojects.com/wp-content/uploads/2018/04/CVPR2018_Paper3623_Chang.pdf)| CVPR | |
 
 
