@@ -98,6 +98,8 @@ Please feel free to send me [pull requests](https://github.com/thaoshibe/awesome
 - Face Recognition:
 	- [FM2u-Net: Face Morphological Multi-Branch Network for Makeup-Invariant Face Verification](https://openaccess.thecvf.com/content_CVPR_2020/html/Wang_FM2u-Net_Face_Morphological_Multi-Branch_Network_for_Makeup-Invariant_Face_Verification_CVPR_2020_paper.html) | CVPR 2020
 	- [Anti-Makeup: Learning A Bi-Level Adversarial Network for Makeup-Invariant Face Verification](https://arxiv.org/abs/1709.03654) | AAAI 2018
+- Recommendation System:
+	- [Examples-Rules Guided Deep Neural Network for Makeup Recommendation](https://ojs.aaai.org/index.php/AAAI/article/view/10626) | AAAI 2017
 
 ##### Interesting Source Codes
 
