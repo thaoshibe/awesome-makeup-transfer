@@ -35,7 +35,7 @@ Please feel free to send me [pull requests](https://github.com/thaoshibe/awesome
 
 | Title    | Venue    | Link     |
 |:-------- |:--------:|:--------:|
-| []()| | -|
+| [Lipstick ain't enough: Beyond Color Matching for In-the-Wild Makeup Transfer](https://arxiv.org/abs/2104.01867)|CVPR | [Project](https://thaoshibe.github.io/CPM)|
 
 #### 2020
 
