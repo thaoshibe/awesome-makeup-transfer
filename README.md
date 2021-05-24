@@ -72,6 +72,7 @@ Please feel free to send me [pull requests](https://github.com/thaoshibe/awesome
 
 | Title    | Year     | Code     |
 |:-------- |:--------:|:--------:|
+| [Facial Attribute Transformers for Precise and Robust Makeup Transfer](https://arxiv.org/abs/2104.02894)|2021|-|
 | [Cosmetic-Aware Makeup Cleanser](https://arxiv.org/abs/2004.09147)|2020|-|
 | [SLGAN: Style- and Latent-guided Generative Adversarial Network for Desirable Makeup Transfer and Removal](https://arxiv.org/abs/2009.07557)|2020|-|
 | [Local Facial Makeup Transfer via Disentangled Representation](https://arxiv.org/abs/2003.12065)| 2020 |-|
