@@ -35,6 +35,7 @@ Please feel free to send me [pull requests](https://github.com/thaoshibe/awesome
 
 | Title    | Venue    | Link     |
 |:-------- |:--------:|:--------:|
+| [SOGAN: 3D-Aware Shadow and Occlusion Robust GAN for Makeup Transfer](https://arxiv.org/abs/2104.10567)| ACM MM | |
 | [Spatially-Invariant Style-Codes Controlled Makeup Transfer](https://openaccess.thecvf.com/content/CVPR2021/html/Deng_Spatially-Invariant_Style-Codes_Controlled_Makeup_Transfer_CVPR_2021_paper.html) | CVPR | |
 | [PSGAN++: Robust Detail-Preserving Makeup Transfer and Removal](https://arxiv.org/abs/2105.12324) | TPAMI | |
 | [Lipstick ain't enough: Beyond Color Matching for In-the-Wild Makeup Transfer](https://arxiv.org/abs/2104.01867)|CVPR | [Project](https://thaoshibe.github.io/CPM), [Code](https://github.com/VinAIResearch/CPM)|
