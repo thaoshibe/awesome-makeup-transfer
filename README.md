@@ -75,6 +75,7 @@ Please feel free to send me [pull requests](https://github.com/thaoshibe/awesome
 
 | Title    | Year     | Code     |
 |:-------- |:--------:|:--------:|
+| [Detailed Region-Adaptive Normalization for Heavy Makeup Transfer](https://arxiv.org/abs/2109.14525)|2021|(code)[https://github.com/Yueming6568/MDMGAN]|
 | [Facial Attribute Transformers for Precise and Robust Makeup Transfer](https://arxiv.org/abs/2104.02894)|2021|-|
 | [Cosmetic-Aware Makeup Cleanser](https://arxiv.org/abs/2004.09147)|2020|-|
 | [SLGAN: Style- and Latent-guided Generative Adversarial Network for Desirable Makeup Transfer and Removal](https://arxiv.org/abs/2009.07557)|2020|-|
