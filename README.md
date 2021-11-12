@@ -18,12 +18,7 @@ Please feel free to send me [pull requests](https://github.com/thaoshibe/awesome
 ### Table of Contents
 
 - [Makeup Transfer](#makeup-transfer)
-  - [2021 Venues](#2021)
-  - [2020 Venues](#2020)
-  - [2019 Venues](#2019)
-  - [2018 Venues](#2018)
-  - [Before 2018](#before-2018)
-  - [arXiv](#arxiv)
+- [Hairstyles Transfer](#Hairstyles-Transfer)
 - [Datasets](#datasets)
 - [Applications](#applications)
 
@@ -54,7 +49,7 @@ Please feel free to send me [pull requests](https://github.com/thaoshibe/awesome
 | [Disentangled Makeup Transfer with Generative Adversarial Network](https://arxiv.org/abs/1907.01144)|arXiv|2019|[GitHub](https://github.com/Honlan/DMT)|
 | []()| | ||
 
-### Hairstyles
+### Hairstyles Transfer
 | Title    | Venue    | Year | Link/ Code     |
 |:-------- |:--------:|:--------:|:--------:|
 | [K-Hairstyle: A Large-scale Korean hairstyle dataset for virtual hair editing and hairstyle classification](https://arxiv.org/abs/2102.06288)| ICIP | 2021 |[Page](https://psh01087.github.io/K-Hairstyle/)|
