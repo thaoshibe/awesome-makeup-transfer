@@ -28,6 +28,7 @@ Please feel free to send me [pull requests](https://github.com/thaoshibe/awesome
 
 | Title    | Venue    | Year | Link/ Code     |
 |:-------- |:--------:|:--------:|:--------:|
+| [SSAT: A Symmetric Semantic-Aware Transformer Network for Makeup Transfer and Removal](https://arxiv.org/abs/2112.03631) | AAAI | 2021 | [Code](https://gitee.com/sunzhaoyang0304/ssat-msp)|
 | [SOGAN: 3D-Aware Shadow and Occlusion Robust GAN for Makeup Transfer](https://arxiv.org/abs/2104.10567)| ACM MM | 2021|
 |[Spatially-Invariant Style-Codes Controlled Makeup Transfer](https://openaccess.thecvf.com/content/CVPR2021/html/Deng_Spatially-Invariant_Style-Codes_Controlled_Makeup_Transfer_CVPR_2021_paper.html) | CVPR |2021 |
 | [PSGAN++: Robust Detail-Preserving Makeup Transfer and Removal](https://arxiv.org/abs/2105.12324) | TPAMI | 2021|
@@ -40,7 +41,7 @@ Please feel free to send me [pull requests](https://github.com/thaoshibe/awesome
 | [BeautyGAN: Instance-level Facial Makeup Transfer with Deep Generative Adversarial Network](https://dl.acm.org/doi/abs/10.1145/3240508.3240618) | ACM |2018|[Tensorflow](https://github.com/Honlan/BeautyGAN), [Torch](https://github.com/wtjiang98/BeautyGAN_pytorch), [Page](http://liusi-group.com/projects/BeautyGAN) |
 | [PairedCycleGAN: Asymmetric Style Transfer for Applying and Removing Makeup](https://adoberesearch.ctlprojects.com/wp-content/uploads/2018/04/CVPR2018_Paper3623_Chang.pdf)| CVPR |2018 |
 |[Makeup like a superstar: Deep Localized Makeup Transfer Network](https://arxiv.org/abs/1604.07102)| IJCA| 2016| |
-|---| ||
+|— **arXiv** —|
 | [Detailed Region-Adaptive Normalization for Heavy Makeup Transfer](https://arxiv.org/abs/2109.14525)|arXiv|2021|[code](https://github.com/Yueming6568/MDMGAN)|
 | [Facial Attribute Transformers for Precise and Robust Makeup Transfer](https://arxiv.org/abs/2104.02894)|arXiv|2021||
 | [Cosmetic-Aware Makeup Cleanser](https://arxiv.org/abs/2004.09147)|arXiv|2020| |
