@@ -32,6 +32,7 @@ Please feel free to send me [pull requests](https://github.com/thaoshibe/awesome
 | [SOGAN: 3D-Aware Shadow and Occlusion Robust GAN for Makeup Transfer](https://arxiv.org/abs/2104.10567)| ACM MM | 2021|
 |[Spatially-Invariant Style-Codes Controlled Makeup Transfer](https://openaccess.thecvf.com/content/CVPR2021/html/Deng_Spatially-Invariant_Style-Codes_Controlled_Makeup_Transfer_CVPR_2021_paper.html) | CVPR |2021 |
 | [PSGAN++: Robust Detail-Preserving Makeup Transfer and Removal](https://arxiv.org/abs/2105.12324) | TPAMI | 2021|
+|[Deep Graphics Encoder for Real-Time Video Makeup Synthesis from Example](https://arxiv.org/abs/2105.06407)| CVPRw | 2021 ||
 | [Lipstick ain't enough: Beyond Color Matching for In-the-Wild Makeup Transfer](https://arxiv.org/abs/2104.01867)|CVPR |2021| [Page](https://thaoshibe.github.io/CPM), [Code](https://github.com/VinAIResearch/CPM)|
 | [PSGAN: Pose and Expression Robust Spatial-Aware GAN for Customizable Makeup Transfer](https://arxiv.org/pdf/1909.06956.pdf) | CVPR |2020| [GitHub](https://github.com/wtjiang98/PSGAN)|
 | [CA-GAN: Weakly Supervised Color Aware GAN for Controllable Makeup Transfer](https://arxiv.org/pdf/2008.10298.pdf) | ECCVw |2020| [Page](https://robinkips.github.io/CA-GAN/)|
