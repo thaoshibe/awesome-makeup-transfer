@@ -18,7 +18,7 @@ Please feel free to send me [pull requests](https://github.com/thaoshibe/awesome
 ### Table of Contents
 
 - [Makeup Transfer](#makeup-transfer)
-- [Hairstyles Transfer](#Hairstyles-Transfer)
+- [Hairstyles Transfer](#hairstyles-transfer)
 - [Datasets](#datasets)
 - [Applications](#applications)
 
@@ -28,7 +28,7 @@ Please feel free to send me [pull requests](https://github.com/thaoshibe/awesome
 
 | Title    | Venue    | Year | Link/ Code     |
 |:-------- |:--------:|:--------:|:--------:|
-| [SSAT: A Symmetric Semantic-Aware Transformer Network for Makeup Transfer and Removal](https://arxiv.org/abs/2112.03631) | AAAI | 2021 | [Code](https://gitee.com/sunzhaoyang0304/ssat-msp)|
+| [SSAT: A Symmetric Semantic-Aware Transformer Network for Makeup Transfer and Removal](https://arxiv.org/abs/2112.03631) | AAAI | 2022 | [Code](https://gitee.com/sunzhaoyang0304/ssat-msp)|
 | [SOGAN: 3D-Aware Shadow and Occlusion Robust GAN for Makeup Transfer](https://arxiv.org/abs/2104.10567)| ACM MM | 2021|
 |[Spatially-Invariant Style-Codes Controlled Makeup Transfer](https://openaccess.thecvf.com/content/CVPR2021/html/Deng_Spatially-Invariant_Style-Codes_Controlled_Makeup_Transfer_CVPR_2021_paper.html) | CVPR |2021 |
 | [PSGAN++: Robust Detail-Preserving Makeup Transfer and Removal](https://arxiv.org/abs/2105.12324) | TPAMI | 2021|
@@ -43,6 +43,7 @@ Please feel free to send me [pull requests](https://github.com/thaoshibe/awesome
 | [PairedCycleGAN: Asymmetric Style Transfer for Applying and Removing Makeup](https://adoberesearch.ctlprojects.com/wp-content/uploads/2018/04/CVPR2018_Paper3623_Chang.pdf)| CVPR |2018 |
 |[Makeup like a superstar: Deep Localized Makeup Transfer Network](https://arxiv.org/abs/1604.07102)| IJCA| 2016| |
 |— **arXiv** —|
+| [Semi-parametric Makeup Transfer via Semantic-aware Correspondence](https://arxiv.org/abs/2203.02286)| arXiv | 2022| [code](https://github.com/AnonymScholar/SpMT)|
 | [Detailed Region-Adaptive Normalization for Heavy Makeup Transfer](https://arxiv.org/abs/2109.14525)|arXiv|2021|[code](https://github.com/Yueming6568/MDMGAN)|
 | [Facial Attribute Transformers for Precise and Robust Makeup Transfer](https://arxiv.org/abs/2104.02894)|arXiv|2021||
 | [Cosmetic-Aware Makeup Cleanser](https://arxiv.org/abs/2004.09147)|arXiv|2020| |
@@ -50,6 +51,7 @@ Please feel free to send me [pull requests](https://github.com/thaoshibe/awesome
 | [Local Facial Makeup Transfer via Disentangled Representation](https://arxiv.org/abs/2003.12065)| arXiv|2020 ||
 | [Disentangled Makeup Transfer with Generative Adversarial Network](https://arxiv.org/abs/1907.01144)|arXiv|2019|[GitHub](https://github.com/Honlan/DMT)|
 | []()| | ||
+
 
 ### Hairstyles Transfer
 | Title    | Venue    | Year | Link/ Code     |
@@ -75,9 +77,13 @@ Please feel free to send me [pull requests](https://github.com/thaoshibe/awesome
 
 ##### Research Directions
 
-- Face Recognition:
+- **Face Verification/ Attack**:
+  - [Protecting Facial Privacy: Generating Adversarial Identity Masks via Style-robust Makeup Transfer](https://arxiv.org/pdf/2203.03121.pdf) | CVPR 2022
+  - [Dodging Attack Using Carefully Crafted Natural Makeup](https://arxiv.org/abs/2109.06467) | arXiv 2021
+  - [Adv-Makeup: A New Imperceptible and Transferable Attack on Face Recognition](https://arxiv.org/abs/2105.03162) | IJCAI 2021
   - [FM2u-Net: Face Morphological Multi-Branch Network for Makeup-Invariant Face Verification](https://openaccess.thecvf.com/content_CVPR_2020/html/Wang_FM2u-Net_Face_Morphological_Multi-Branch_Network_for_Makeup-Invariant_Face_Verification_CVPR_2020_paper.html) | CVPR 2020
   - [Anti-Makeup: Learning A Bi-Level Adversarial Network for Makeup-Invariant Face Verification](https://arxiv.org/abs/1709.03654) | AAAI 2018
+
 - Recommendation System | Beautification:
   - [Face Beautification: Beyond Makeup Transfer](https://arxiv.org/abs/1912.03630) | arXiv 2019
   - [Examples-Rules Guided Deep Neural Network for Makeup Recommendation](https://ojs.aaai.org/index.php/AAAI/article/view/10626) | AAAI 2017
