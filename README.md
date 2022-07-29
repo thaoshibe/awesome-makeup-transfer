@@ -28,6 +28,7 @@ Please feel free to send me [pull requests](https://github.com/thaoshibe/awesome
 
 | Title    | Venue    | Year | Link/ Code     |
 |:-------- |:--------:|:--------:|:--------:|
+|[EleGANt: Exquisite and Locally Editable GAN for Makeup Transfer](https://arxiv.org/abs/2207.09840) |ECCV|2022|[Code](https://github.com/Chenyu-Yang-2000/EleGANt)|
 | [SSAT: A Symmetric Semantic-Aware Transformer Network for Makeup Transfer and Removal](https://arxiv.org/abs/2112.03631) | AAAI | 2022 | [Code](https://gitee.com/sunzhaoyang0304/ssat-msp)|
 | [SOGAN: 3D-Aware Shadow and Occlusion Robust GAN for Makeup Transfer](https://arxiv.org/abs/2104.10567)| ACM MM | 2021|
 |[Spatially-Invariant Style-Codes Controlled Makeup Transfer](https://openaccess.thecvf.com/content/CVPR2021/html/Deng_Spatially-Invariant_Style-Codes_Controlled_Makeup_Transfer_CVPR_2021_paper.html) | CVPR |2021 |
