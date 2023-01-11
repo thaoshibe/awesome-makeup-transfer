@@ -42,6 +42,7 @@ Please feel free to send me [pull requests](https://github.com/thaoshibe/awesome
 | [PairedCycleGAN: Asymmetric Style Transfer for Applying and Removing Makeup](https://adoberesearch.ctlprojects.com/wp-content/uploads/2018/04/CVPR2018_Paper3623_Chang.pdf)| CVPR |2018 |
 |[Makeup like a superstar: Deep Localized Makeup Transfer Network](https://arxiv.org/abs/1604.07102)| IJCA| 2016| |
 |— **arXiv** —|
+| [BeautyREC: Robust, Efficient, and Content-preserving Makeup Transfer](https://arxiv.org/abs/2212.05855) | arXiv | 2022 | [Page](https://arxiv.org/abs/2212.05855) |
 | [Semi-parametric Makeup Transfer via Semantic-aware Correspondence](https://arxiv.org/abs/2203.02286)| arXiv | 2022| [code](https://github.com/AnonymScholar/SpMT)|
 | [Detailed Region-Adaptive Normalization for Heavy Makeup Transfer](https://arxiv.org/abs/2109.14525)|arXiv|2021|[code](https://github.com/Yueming6568/MDMGAN)|
 | [Facial Attribute Transformers for Precise and Robust Makeup Transfer](https://arxiv.org/abs/2104.02894)|arXiv|2021||
