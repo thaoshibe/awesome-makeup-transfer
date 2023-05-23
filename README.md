@@ -25,6 +25,7 @@ Please feel free to send me [pull requests](https://github.com/thaoshibe/awesome
 
 | Title    | Venue    | Year | Link/ Code     |
 |:-------- |:--------:|:--------:|:--------:|
+| [Makeup Extraction of 3D Representation via Illumination-Aware Image Decomposition](https://arxiv.org/pdf/2302.13279.pdf) |Eurographics|2023|[Project](https://yangxingchao.github.io/3d-makeup-extraction/)|
 | [RamGAN: Region Attentive Morphing GAN for Region-Level Makeup Transfer](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/803_ECCV_2022_paper.php) | ECCV | 2022 | -|
 |[EleGANt: Exquisite and Locally Editable GAN for Makeup Transfer](https://arxiv.org/abs/2207.09840) |ECCV|2022|[Code](https://github.com/Chenyu-Yang-2000/EleGANt)|
 | [SSAT: A Symmetric Semantic-Aware Transformer Network for Makeup Transfer and Removal](https://arxiv.org/abs/2112.03631) | AAAI | 2022 | [Code](https://gitee.com/sunzhaoyang0304/ssat-msp)|
