@@ -25,6 +25,7 @@ Please feel free to send me [pull requests](https://github.com/thaoshibe/awesome
 
 | Title    | Venue    | Year | Link/ Code     |
 |:-------- |:--------:|:--------:|:--------:|
+|[Stable-Makeup: When Real-World Makeup Transfer Meets Diffusion Model](https://arxiv.org/pdf/2403.07764.pdf) | arXiv|2024||
 | [SSAT ++ : A Semantic-Aware and Versatile Makeup Transfer Network With Local Color Consistency Constraint](https://ieeexplore.ieee.org/abstract/document/10328655?casa_token=eK7SKjCK2bEAAAAA:B2mINvCBFujPL4P01GY94N7C-m3CnC4YhqZp7Tzp26kVk5lApsj_gZBSHFO3-4xI9MoXLrtQtQ) | Journal | 2023 | |
 | [Makeup Extraction of 3D Representation via Illumination-Aware Image Decomposition](https://arxiv.org/pdf/2302.13279.pdf) |Eurographics|2023|[Project](https://yangxingchao.github.io/makeup-extract-page/), [GitHub](https://github.com/YangXingchao/makeup-extract),|
 | [RamGAN: Region Attentive Morphing GAN for Region-Level Makeup Transfer](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/803_ECCV_2022_paper.php) | ECCV | 2022 | -|
