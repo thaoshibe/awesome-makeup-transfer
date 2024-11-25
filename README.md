@@ -25,6 +25,8 @@ Please feel free to send me [pull requests](https://github.com/thaoshibe/awesome
 
 | Title    | Venue    | Year | Link/ Code     |
 |:-------- |:--------:|:--------:|:--------:|
+| [SHMT: Self-supervised Hierarchical Makeup Transfer via Latent Diffusion Models](https://openreview.net/forum?id=EeXcOYf3Lg) | NeurIPS | 2024 | [Code](https://github.com/Snowfallingplum/SHMT) |
+| [Content-Style Decoupling for Unsupervised Makeup Transfer without Generating Pseudo Ground Truth](https://arxiv.org/abs/2405.17240) | CVPR | 2024 | [Code](https://github.com/Snowfallingplum/CSD-MT) |
 | [Makeup Prior Models for 3D Facial Makeup Estimation and Applications](https://arxiv.org/pdf/2403.17761.pdf) | CVPR | 2024 | [Page](https://yangxingchao.github.io/makeup-priors-page/)|
 | [SSAT ++ : A Semantic-Aware and Versatile Makeup Transfer Network With Local Color Consistency Constraint](https://ieeexplore.ieee.org/abstract/document/10328655?casa_token=eK7SKjCK2bEAAAAA:B2mINvCBFujPL4P01GY94N7C-m3CnC4YhqZp7Tzp26kVk5lApsj_gZBSHFO3-4xI9MoXLrtQtQ) | Journal | 2023 | |
 | [Makeup Extraction of 3D Representation via Illumination-Aware Image Decomposition](https://arxiv.org/pdf/2302.13279.pdf) |Eurographics|2023|[Page](https://yangxingchao.github.io/makeup-extract-page/), [GitHub](https://github.com/YangXingchao/makeup-extract),|
@@ -45,6 +47,7 @@ Please feel free to send me [pull requests](https://github.com/thaoshibe/awesome
 | [PairedCycleGAN: Asymmetric Style Transfer for Applying and Removing Makeup](https://adoberesearch.ctlprojects.com/wp-content/uploads/2018/04/CVPR2018_Paper3623_Chang.pdf)| CVPR |2018 |
 |[Makeup like a superstar: Deep Localized Makeup Transfer Network](https://arxiv.org/abs/1604.07102)| IJCA| 2016| |
 |— **arXiv** —|
+| [BeautyBank: Encoding Facial Makeup in Latent Space](https://arxiv.org/abs/2411.11231) | arXiv | 2024 | |
 | [Gorgeous: Create Your Desired Character Facial Makeup from Any Ideas](https://arxiv.org/abs/2404.13944) | arXiv|2024||
 |[Stable-Makeup: When Real-World Makeup Transfer Meets Diffusion Model](https://arxiv.org/pdf/2403.07764.pdf) | arXiv|2024||
 | [SARA: Controllable Makeup Transfer with Spatial Alignment and Region-Adaptive Normalization](https://arxiv.org/pdf/2311.16828.pdf)| arXiv | 2023||
