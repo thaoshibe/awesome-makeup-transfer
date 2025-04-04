@@ -47,6 +47,7 @@ Please feel free to send me [pull requests](https://github.com/thaoshibe/awesome
 | [PairedCycleGAN: Asymmetric Style Transfer for Applying and Removing Makeup](https://adoberesearch.ctlprojects.com/wp-content/uploads/2018/04/CVPR2018_Paper3623_Chang.pdf)| CVPR |2018 |
 |[Makeup like a superstar: Deep Localized Makeup Transfer Network](https://arxiv.org/abs/1604.07102)| IJCA| 2016| |
 |— **arXiv** —|
+| [MAD: Makeup All-in-One with Cross-Domain Diffusion Model](https://basiclab.github.io/MAD/)| arXiv | 2025 ||
 | [BeautyBank: Encoding Facial Makeup in Latent Space](https://arxiv.org/abs/2411.11231) | arXiv | 2024 | |
 | [Gorgeous: Create Your Desired Character Facial Makeup from Any Ideas](https://arxiv.org/abs/2404.13944) | arXiv|2024||
 |[Stable-Makeup: When Real-World Makeup Transfer Meets Diffusion Model](https://arxiv.org/pdf/2403.07764.pdf) | arXiv|2024||
