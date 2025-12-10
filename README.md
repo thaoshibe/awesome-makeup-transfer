@@ -25,6 +25,7 @@ Please feel free to send me [pull requests](https://github.com/thaoshibe/awesome
 
 | Title    | Venue    | Year | Link/ Code     |
 |:-------- |:--------:|:--------:|:--------:|
+| [BeautyBank: Encoding Facial Makeup in Latent Space](https://arxiv.org/abs/2411.11231) | WACV | 2025 | [Code](https://github.com/CyberAgentAILab/BeautyBank) |
 | [SHMT: Self-supervised Hierarchical Makeup Transfer via Latent Diffusion Models](https://openreview.net/forum?id=EeXcOYf3Lg) | NeurIPS | 2024 | [Code](https://github.com/Snowfallingplum/SHMT) |
 | [Content-Style Decoupling for Unsupervised Makeup Transfer without Generating Pseudo Ground Truth](https://arxiv.org/abs/2405.17240) | CVPR | 2024 | [Code](https://github.com/Snowfallingplum/CSD-MT) |
 | [Makeup Prior Models for 3D Facial Makeup Estimation and Applications](https://arxiv.org/pdf/2403.17761.pdf) | CVPR | 2024 | [Page](https://yangxingchao.github.io/makeup-priors-page/)|
@@ -48,7 +49,6 @@ Please feel free to send me [pull requests](https://github.com/thaoshibe/awesome
 |[Makeup like a superstar: Deep Localized Makeup Transfer Network](https://arxiv.org/abs/1604.07102)| IJCA| 2016| |
 |— **arXiv** —|
 | [MAD: Makeup All-in-One with Cross-Domain Diffusion Model](https://basiclab.github.io/MAD/)| arXiv | 2025 ||
-| [BeautyBank: Encoding Facial Makeup in Latent Space](https://arxiv.org/abs/2411.11231) | arXiv | 2024 | |
 | [Gorgeous: Create Your Desired Character Facial Makeup from Any Ideas](https://arxiv.org/abs/2404.13944) | arXiv|2024||
 |[Stable-Makeup: When Real-World Makeup Transfer Meets Diffusion Model](https://arxiv.org/pdf/2403.07764.pdf) | arXiv|2024||
 | [SARA: Controllable Makeup Transfer with Spatial Alignment and Region-Adaptive Normalization](https://arxiv.org/pdf/2311.16828.pdf)| arXiv | 2023||
