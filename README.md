@@ -25,7 +25,7 @@ Please feel free to send me [pull requests](https://github.com/thaoshibe/awesome
 
 | Title    | Venue    | Year | Link/ Code     |
 |:-------- |:--------:|:--------:|:--------:|
-| [BeautyBank: Encoding Facial Makeup in Latent Space](https://arxiv.org/abs/2411.11231) | WACV | 2025 | [Code](https://github.com/CyberAgentAILab/BeautyBank) |
+| [BeautyBank: Encoding Facial Makeup in Latent Space](https://arxiv.org/abs/2411.11231) | WACV | 2024 | [Code](https://github.com/CyberAgentAILab/BeautyBank) |
 | [SHMT: Self-supervised Hierarchical Makeup Transfer via Latent Diffusion Models](https://openreview.net/forum?id=EeXcOYf3Lg) | NeurIPS | 2024 | [Code](https://github.com/Snowfallingplum/SHMT) |
 | [Content-Style Decoupling for Unsupervised Makeup Transfer without Generating Pseudo Ground Truth](https://arxiv.org/abs/2405.17240) | CVPR | 2024 | [Code](https://github.com/Snowfallingplum/CSD-MT) |
 | [Makeup Prior Models for 3D Facial Makeup Estimation and Applications](https://arxiv.org/pdf/2403.17761.pdf) | CVPR | 2024 | [Page](https://yangxingchao.github.io/makeup-priors-page/)|
